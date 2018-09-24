@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Ajuste</title>
 </head>
 <body>
 <h1>Aluno ${param.nome} adicionado com sucesso!!!</h1>
